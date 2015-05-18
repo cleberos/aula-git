@@ -6,4 +6,4 @@
 * adicionando o arquivo README.md para controle: git add *;
 * fazendo um novo commit:git commit -m "Segunda alteração";
 * verificando o status do arquivo: git status;
-* enviando para o github: git push origin master;
+* enviando para o github: git push;
