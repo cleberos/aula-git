@@ -7,3 +7,4 @@
 * fazendo um novo commit:git commit -m "Segunda alteração";
 * verificando o status do arquivo: git status;
 * enviando para o github: git push;
+* criado o release 0.1.0;
